@@ -1,6 +1,10 @@
 # Arduino traffic light controller
 Program for the control of a traffic light system at a street junction with pedestrian crossing.
 
+![Traffic light Diagram final ](https://user-images.githubusercontent.com/73448401/100377399-19c34a80-3009-11eb-96f0-6580a9321f37.png)
+
+**Figure** :Traffic light at junction diagram
+
 # Conditions
 
 The requirements for the timing cycles for the traffic lights are the following:
