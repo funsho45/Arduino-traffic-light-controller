@@ -25,3 +25,5 @@ When cars coming out of the side road get a green light, main road light should 
 # Result
 
 The progrem is simulated usising Tinkercad shown in the video below.
+
+[![](http://img.youtube.com/vi/zFze7DTGLpc/0.jpg)](http://www.youtube.com/watch?v=zFze7DTGLpc "")
