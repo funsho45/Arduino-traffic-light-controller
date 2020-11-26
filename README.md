@@ -22,7 +22,7 @@ than one car is waiting in front of the traffic light. Note, a second POT is use
 light model to emulate the function of the coils. A value of 512 simulates that a car is waiting.
 When cars coming out of the side road get a green light, main road light should be red.
 
-# Result
+# Demonstration video
 
 The progrem is simulated usising Tinkercad shown in the video below.
 
